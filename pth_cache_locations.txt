@@ -1,0 +1,4 @@
+GIT DIR -- https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py
+LOCAL DIR -- C:\Users\(your uname)/.cache\torch\hub\checkpoints\resnet34-333f7ec4.pth (etc.)
+SERVER DIR -- /home/(your uname)/.cache/torch/hub/checkpoints/resnet34-333f7ec4.pth (etc.)
+OSX DIR -- /Users/(your uname)/.cache/torch/hub/checkpoints/resnet18-f37072fd.pth (etc.)
